@@ -64,18 +64,6 @@ pip install google-generativeai
 
 ### 5. Running in Colab / Jupyter Notebook
 
-### 6. Optional: Public Access with ngrok
-
-If you want to expose the notebook-hosted FastAPI server externally in Colab:
-
-```python
-from pyngrok import ngrok
-public_url = ngrok.connect(8000)
-print(public_url)
-```
-
----
-
 ### 6. PDF Processing Flow
 
 A typical demo flow is:
