@@ -1,7 +1,7 @@
 # PDF Query Session API
 
 **FastAPI-based PDF Query/Response Session Demo for Colab and Jupyter Notebook**
-**FastAPI 기반 PDF 질의/응답 세션 데모 (Colab / Jupyter Notebook 전용)**
+
 
 ---
 
